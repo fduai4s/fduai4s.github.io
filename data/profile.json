@@ -1,5 +1,5 @@
 {
-  "site_url": "",
+  "site_url": "https://fduai4s.github.io",
   "name": {"en": "Hao Zhang", "zh": "张浩"},
   "site_title": {"en": "Hao Zhang · Fudan University", "zh": "张浩 · 复旦大学"},
   "description": {
@@ -19,6 +19,7 @@
     "zh": "国家级优秀创新创业导师"
   },
   "email_display": "zhangh AT fudan.edu.cn",
+  "github": "https://github.com/fduai4s",
   "source_page": "https://optics.fudan.edu.cn/2a/11/c39771a469521/page.htm",
 
   "home_intro": {

@@ -67,6 +67,12 @@
    "notes": [
     {
      "code": "high-impact"
+    },
+    {
+     "code": "link",
+     "label_en": "Code",
+     "label_zh": "代码",
+     "url": "https://github.com/fduai4s/PARCE"
     }
    ],
    "figure": "parce2026.jpg"

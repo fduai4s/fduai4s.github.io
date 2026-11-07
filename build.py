@@ -224,6 +224,7 @@ def layout(lang, key, path, title, body, description=None):
       <a href="{url(lang, '/teaching/')}">{t('teaching', lang)}</a>
       <a href="{url(lang, '/member/')}#honors">{t('honors', lang)}</a>
       <a href="{esc(PROFILE['source_page'])}">{t('faculty_page', lang)}</a>
+      <a href="{esc(PROFILE['github'])}">GitHub ↗</a>
     </nav>
   </footer>
 </body>
