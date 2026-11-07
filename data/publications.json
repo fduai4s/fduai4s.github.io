@@ -1,0 +1,1912 @@
+{
+ "selected": [
+  {
+   "id": "J140",
+   "figure": "nc2025.png"
+  },
+  {
+   "id": "J136",
+   "figure": "prr2025.jpg"
+  },
+  {
+   "id": "J125",
+   "figure": "as2023.jpg"
+  },
+  {
+   "id": "J122",
+   "figure": "afm2023.jpg"
+  },
+  {
+   "id": "J111",
+   "figure": "light2022.jpg"
+  },
+  {
+   "id": "J102",
+   "figure": "advsci2021.jpg"
+  },
+  {
+   "id": "J95",
+   "figure": "mh2021.jpg"
+  },
+  {
+   "id": "J94",
+   "figure": "prb2021.jpg"
+  },
+  {
+   "id": "J82",
+   "figure": "npj2dm2020.png"
+  },
+  {
+   "id": "J70",
+   "figure": "am2019.jpg"
+  },
+  {
+   "id": "J65",
+   "figure": "npjcm2018.jpg"
+  }
+ ],
+ "items": [
+  {
+   "id": "J148",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Wu, Yu and Shang, Luman and Liu, Yufan and Zeng, Shuming and Tang, Gang and Zhou, Liujiang and Zhang, Hao and Liu, Chenhan",
+   "title": "Prediction of ultralow thermal conductivity halides via rotational soft modes and octahedral distortion",
+   "venue": "Phys. Rev. B 114:134306 (2026)",
+   "notes": []
+  },
+  {
+   "id": "J147",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Hongyu Chen#, Mengyu Dai#, Hongjiang Chen, Ruilin Liu, Xiaole Tian, Ruixiao Lian, Yuqian Zhang, Xia Cai, Wenwu Li, Hao Zhang*",
+   "title": "PARCE: Accurate Inference of Crystal Structure Information from Phonon Vibrational Modes",
+   "venue": "arXiv:2601.01423 accepted by Materials Genome Engineering Advances (2026)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "figure": "parce2026.jpg"
+  },
+  {
+   "id": "J146",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Hongjiang Chen#, Hai-Xuan Lin#, Xiaole Tian, Hongyu Chen, Juan Zhang, Shengyao Yan, Hezhu Shao, Yu Wu, Junjie Liu*, Hao Zhang*",
+   "title": "NanoBTE: Fast Iterative Solution of the Phonon Boltzmann Transport Equation for Nanoscale Heat Transport",
+   "venue": "arXiv:2607.03226 (2026)",
+   "notes": [],
+   "figure": "nanobte2026.jpg"
+  },
+  {
+   "id": "J145",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Lei Peng, Ruixiao Lian, Xiaole Tian, Hongyu Chen, Ben Li, Yu Wu, Yuxiang Zheng*, and Hao Zhang*",
+   "title": "Synergy of Rashba Splitting and Topological Band Inversion in Janus Bi2X2Y Tetradymite Thermoelectrics",
+   "venue": "Phys. Rev. B 114:125407 (2026)",
+   "notes": [],
+   "figure": "prb2026.png"
+  },
+  {
+   "id": "J144",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Yuna Song#, Xiaole Tian#, Zhongtao Duan, Yuan Feng, Qi Feng, Xun Zhu, Ruixiao Lian, Lei Peng, Hongyu Chen, Yiting Liu, Xiaolei Zhang*, Qingyuan Jin*, Fengxian Xie*, and Hao Zhang*",
+   "title": "Ultrafast terahertz tracking of carrier diffusion across thermally induced phase transitions in hybrid perovskites",
+   "venue": "Advanced Functional Materials 36:e26506 (2026)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "figure": "afm2026.jpg"
+  },
+  {
+   "id": "J143",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Hongjing Wang, Songsong Sun*, Lei Peng, Yanju Ji, Hao Zhang*, Yuanfeng Xu*",
+   "title": "Designing type-II p-SiCC4/XO (X = Sn, Pb) van der Waals heterojunctions with a built-in electric field as promising photocatalysts for highly efficient overall water splitting",
+   "venue": "Journal of Materials Chemistry A, 14, 6572-6583 (2026)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J142",
+   "type": "journal",
+   "group": "2026",
+   "year": 2026,
+   "authors": "Yu Wu, Ying Chen, Shuming Zeng, Hao Zhang, Liujiang Zhou, Chenhan Liu, Su-Huai Wei",
+   "title": "Pushing the Thermal Conductivity Limit by Decoupling Dual-Channel Phonon Transport in Crystals",
+   "venue": "Nano Letters 26:1632 (2026)",
+   "notes": []
+  },
+  {
+   "id": "J141",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "Huanchen Ma, Hao Zhang* and Junjie Liu*",
+   "title": "Dynamical non-Hermitian systems: Fingerprints and pure dephasing induced protection effect",
+   "venue": "Physical Review A 112:012204 (2025)",
+   "notes": [],
+   "figure": "pra2025.png"
+  },
+  {
+   "id": "J140",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "Luozhijie Jin, Zijian Du, Le Shu, Yan Cen*, Yuanfeng Xu, Yongfeng Mei and Hao Zhang*",
+   "title": "Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning",
+   "venue": "Nature Communications 16:1210 (2025)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J139",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "Song, Yuna; Duan, Zhongtao; Peng, Lei; Zhang, Juan; Ji, Zhihao; Zou, yuqing; Zhang, Jingying; Li, Ziyang; Zhang, Zongzhi; Xie, Fengxian*; Zhang, Hao*; Jin, Qingyuan*",
+   "title": "Photoinduced Frohlich interaction driven distinct electron- and hole-polaron behaviors in hybrid organic-inorganic perovskites by ultrafast terahertz probes",
+   "venue": "ACS Nano 9:3312-3324 (2025)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "figure": "acsnano2025.jpg"
+  },
+  {
+   "id": "J138",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "ZiJie Qiu, Luozhijie Jin, Zijian Du, Hongyu Chen, Yan Cen*, Siqi Sun, Yongfeng Mei and Hao Zhang*",
+   "title": "Massive discovery of crystal structures across dimensionalities by leveraging vector quantization",
+   "venue": "arXiv:2409.06191 (2024). npj Computational Materials 11:184 (2025)",
+   "notes": [],
+   "figure": "npjcm2025-vq.jpg"
+  },
+  {
+   "id": "J137",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "Juan Zhang, Jiayi Gong, Hongyu Chen, Lei Peng, Hezhu Shao, Yan Cen, Jun Zhuang, Heyuan Zhu, Jin-Jian Zhou* and Hao Zhang*",
+   "title": "Enhanced Long-Range Quadrupole Effects in 2D MSi2N4: Impacts on Electric and Thermal Transport",
+   "venue": "npj Computational Materials 11:166 (2025)",
+   "notes": [],
+   "figure": "npjcm2025-quad.jpg"
+  },
+  {
+   "id": "J136",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "Ben Li, Yanfang Zhang, Jing Wang*, Wenhao Wang, Jingui Ma, Peng Yuan, Dongfang Zhang, Yongfeng Mei, Heyuan Zhu, Hao Zhang*, and Liejia Qian",
+   "title": "Non-Hermitian Optical Parametric Systems with Anti-parity-time Symmetry",
+   "venue": "arXiv:2310.10148 (2023). Phys. Rev. Research 7:023012 (2025)",
+   "notes": []
+  },
+  {
+   "id": "J135",
+   "type": "journal",
+   "group": "2025",
+   "year": 2025,
+   "authors": "Zijian Du, Luozhijie Jin, Le Shu, Yan Cen*, Yuanfeng Xu, Yongfeng Mei and Hao Zhang*",
+   "title": "CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction",
+   "venue": "arXiv:2405.11502 (2025)",
+   "notes": []
+  },
+  {
+   "id": "J134",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Hezhu Shao*, Xiaole Tian, Yuehao Wang, Wenting Zhang, Changkun Dong, and Hao Zhang*",
+   "title": "An improved compatibility to the solar spectral irradiance and heat transport in a predicted trigonal silicon allotrope",
+   "venue": "Phys. Rev. B 110:235203 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J133",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Bingfei Nan; Jing Yu; Mengyao Li; Hongyu Chen; Hao Zhang, Cheng Chang, Xuan Song; Kai Guo; Jordi Arbiol",
+   "title": "Colloidal Ag2SbBiSe4nanocrystals as n-type thermoelectric materials",
+   "venue": "Journal of Colloid And Interface Science.679:910-920 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J132",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Yaxin Wang, Zejiao Shi, Yanyan Wang, Juan Zhang, Xin Zhang, Xiaoguo Li, Haoliang Wang, Chongyuan Li, Jiao Wang, Hao Zhang, Yingguo Yang, Jia Zhang, Anran Yu, Yiqiang Zhan",
+   "title": "Highly Oriented FAPbI3 via 2D Ruddlesden Popper Perovskite Template Growth",
+   "venue": "Advanced Energy Materials 2024, 2401721 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J131",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Kai Guo**, Juan Zhang*, Xiaotong Yu, Yuanxin Jiang, Yang Li, Yuqi Zeng, Shuankui Li, Jun Luo, Wen Li, Hao Zhang*",
+   "title": "In-Plane Overdamping and Out-Plane Localized Vibration Contribute to Ultralow Lattice Thermal Conductivity of Zintl Phase KCdSb",
+   "venue": "Advanced Science 2024:2402209 (2024)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J130",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Xia, Yujie; Peng, Lei; Shu, Le; Wu, Ao; Shao, Hezhu; Li, Ben; Zhang, Juan; Sui, Zhan; Zhu, Heyuan; Zhang, Hao*",
+   "title": "Strong Intervalley Scattering Induced Renormalization of Electronic and Thermal Transport Properties and Selection-rule Analysis in 2D Tellurium",
+   "venue": "ACS Nano 18:5814 (2024)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J129",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Liu, Chang; Sun, Songsong; Hou, Qingmeng; Song, Yaning; Wang, Hongjing; Ji, Yanju; Zhao, Yingbo; Zhang, Hao*; Xu, Yuanfeng",
+   "title": "Overall spontaneous water splitting for calcium bismuthate Ca(BiO2)2: flexible electronics controlled bandedge position and adsorption site modulated bond strength",
+   "venue": "Langmuir 40:2990 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J128",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Le Shu, Yujie Xia, Ben Li, Juan Zhang, Lei Peng, Hezhu Shao*, Yan Cen, Heyuan Zhu, Zengxu Wang* and Hao Zhang*",
+   "title": "Full-landscape selection rules of electrons and phonons and temperature-induced effects in 2D silicon and germanium allotropes",
+   "venue": "npj Computational Materials. 10:2 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J127",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Yudong Tao, Wentao Zhu, Yanfang Zhang, Jingui Ma, Jing Wang, Peng Yuan, Hao Zhang, Heyuan Zhu, and Liejia Qian",
+   "title": "Ultrabroadband second-harmonic generation via spatiotemporal-coupled phase matching",
+   "venue": "Chinese Optics Letters 22:011901 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J126",
+   "type": "journal",
+   "group": "2024",
+   "year": 2024,
+   "authors": "Lei Peng, Ao Wu, Yujie Xia, Haotian Zhang, Yuting Yang, Hezhu Shao, Ying Chen, Juan Zhang, Le Shu, Heyuan Zhu, Yuxiang Zheng* and Hao Zhang*",
+   "title": "Suppression of intervalley scattering and enhanced phonon anharmonic interactions in 2D Bi2TeSe2: crystal-field symmetry and band convergence",
+   "venue": "Journal of Materiomics 10:386 (2024)",
+   "notes": []
+  },
+  {
+   "id": "J125",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Juan Zhang, Yujie Xia, Lei Peng, Yiming Zhang, Ben Li, Le Shu, Yan Cen, Jun Zhuang, Heyuan Zhu, Peng Zhan, and Hao Zhang*",
+   "title": "Ultra-confined Phonon Polaritons and Strongly Coupled Microcavity Exciton Polaritons in Monolayer MoSi2N4 and WSi2N4",
+   "venue": "Advanced Science 2023:2307691 (2023)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J124",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Yu Wu*, Ying Chen, Qiaoqiao Li, Kui Xue, Hezhu Shao, Hao Zhang*, Liujiang Zhou",
+   "title": "Ultralow lattice thermal transport and considerable wave-like phonon tunneling in chalcogenide perovskite BaZrS3",
+   "venue": "arXiv:2310.13851 The Journal of Physical Chemistry Letters 14:11465-11473 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J123",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Xia Cai*, Yan Li, Jianfei Liu, Hao Zhang*, Jianguo Pan*, Yiqiang Zhan",
+   "title": "Discovery of All-Inorganic Lead-Free Perovskites with High Photovoltaic Performance via Ensemble Machine Learning",
+   "venue": "Materials Horizons 10, 5288-5297 (2023)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J122",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Yujie Xia, Le Shu, Yiming Zhang, Ying Chen, Lei Peng, Juan Zhang, Ben Li, Hezhu Shao*, Yan Cen, Zhan Sui, Heyuan Zhu*, Hao Zhang*",
+   "title": "Full-landscape Condensation Phases for Long-lived Excitons in 2D Tellurium: Crystal-field Splitting and Finite-momentum Excitons",
+   "venue": "Advanced Functional Materials 2023, 2303779 (2023)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "二维碲烯中长寿命激子的凝聚相",
+     "url": "https://mp.weixin.qq.com/s/mNy-kqZZebwa0Ayd3v97WA"
+    }
+   ]
+  },
+  {
+   "id": "J121",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Ying Chen, Lei Peng, Yu Wu, Congcong Ma, Ao Wu, Hao Zhang* and Zhilai Fang*",
+   "title": "Anomalous temperature-dependent phonon anharmonicity and strain engineering of thermal conductivity in β-Ga2O3",
+   "venue": "The Journal of Physical Chemistry C 127, 13356-13363 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J120",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "王文昊, 周冰洁, 章艳芳, 王静, 马金贵, 张浩, 钱列加",
+   "title": "基于光参量过程直接产生高重频超短脉冲序列",
+   "venue": "强激光与粒子束, 已录用 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J119",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Wenhao Wang, Yanfang Zhang, Ben Li, Jing Wang*, Jingui Ma, Peng Yuan, Dongfang Zhang, Hao Zhang*, and Liejia Qian",
+   "title": "Generation of an ultrashort pulse train through ultrafast parity-time symmetry switching",
+   "venue": "Optics Express 31:19523 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J118",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Yu Wu*, Ying Chen, Lei Peng, Hao Zhang* and LiuJiang Zhou*",
+   "title": "Intervalley scattering induced a significant reduction in lattice thermal conductivities for phosphorene",
+   "venue": "Nanoscale Horizons 8, 912-920 (2023)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "电子科大长三角研究院&复旦大学: 寻找谷间散射致低晶格热导率材料新思路",
+     "url": "https://mp.weixin.qq.com/s/GvHXCiTitvV9VqpX0Cm10g"
+    }
+   ]
+  },
+  {
+   "id": "J117",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Congcong Ma, Zhengyuan Wu, Hao Zhang*, Heyuan Zhu, Junyong Kang, Junhao Chu, Zhilai Fang*",
+   "title": "P-type nitrogen-doped β-Ga2O3: the role of stable shallow acceptor NO-VGa complexes",
+   "venue": "Physical Chemistry Chemical Physics 25:13766-13771 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J116",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Ben Li, Juan Zhang, Yujie Xia, Ke Xu, Lei Peng, Hezhu Shao*, Rui Yu*, Zengxu Wang, Yuanfeng Xu, Heyuan Zhu, and Hao Zhang*",
+   "title": "Magnetic field effects and excitonic selection rules in monolayer palladium diselenide as a large-gap quantum spin Hall insulator",
+   "venue": "Phys. Rev. B 107:155401 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J115",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Xia, Yujie; Wu, Ao; Li, Ben; Zhang, Juan; Zhang, Yi-Ming; Peng, Lei; Shao, Hezhu*; Cen, Yan; Wang, Zengxu; Liu, Shangdong; Ji, Yimu; Sui, Zhan; Zhu, Heyuan*; Zhang, Hao*",
+   "title": "Spin-orbit-coupling Induced Topological Transition and Anomalously Strong Intervalley Scattering in Two-dimensional Bismuth Allotropes with Enhanced Thermoelectric Performances",
+   "venue": "ACS Applied Materials & Interfaces 15:19545-19559 (2023)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J114",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Ao Wu, Yujie Xia, Yiming Zhang, Lei Peng, Hezhu Shao, Yan Cen*, Heyuan Shao, Hao Zhang*",
+   "title": "Strong Electron–Phonon and Phonon–Phonon Interactions Lead to High Thermoelectric Performances in Lead Phosphorene via Symmetry Breaking",
+   "venue": "arXiv:2206.02188, Advanced Theory and Simulations 2023:2300226 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J113",
+   "type": "journal",
+   "group": "2023",
+   "year": 2023,
+   "authors": "Hezhu Shao*, Daquan Ding, Ying Fang, Wei Song, Jielan Huang, Changkun Dong, and Hao Zhang*",
+   "title": "Phonon transport in Cu2GeSe3:Effects of spin-orbit coupling and higher-order phonon-phonon scattering",
+   "venue": "Phys. Rev. B 107:085202 (2023)",
+   "notes": []
+  },
+  {
+   "id": "J112",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Ying Chen, Ao Wu, Yiming Zhang, Yu Wu, Yujie Xia, Congcong Ma, Heyuan Zhu, Hao Zhang* and Zhilai Fang*",
+   "title": "Full-momentum exciton landscape and macroscopic quantum phase diagram in two-dimensional gallium oxides",
+   "venue": "Materials Today Physics 29:100903 (2022)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J111",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Xia Cai, Fengcai Liu, Anran Yu, Jiajun Qin, Mohammad Hatamvand, Irfan Ahmed, Jiayan Luo, Yiming Zhang, Hao Zhang* and Yiqiang Zhan*",
+   "title": "Data-driven Design of High-performance MASnxPb1-xI3 Perovskite Materials by Machine Learning and Experimental Realization",
+   "venue": "Light: Science & Applications 11:234 (2022)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "Light | 数据驱动高性能MASn᙮Pb₁₋᙮I₃钙钛矿设计与实验研究",
+     "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODY2MTkxMw==&mid=2651330810&idx=1&sn=afda9083cb0dc0a9688ef4bf10660dc2&chksm=8443e88cb334619ae4e65a49a77ff60645b6822ab940e224279f5fe11c9e63ce614a8cbc93ce&scene=27"
+    }
+   ]
+  },
+  {
+   "id": "J110",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Guangxu Su, Anyuan Gao, Bo Peng, Junzheng Hu, Yi Zhang*, Fanxin Liu*, Hao Zhang*, Peng Zhan*, and Wei Wu",
+   "title": "Observation of In-plane Exciton-polaritons in Monolayer WSe 2 Driven by Plasmonic Nanofingers",
+   "venue": "Nanophotonics (2022) DOI: https://doi.org/10.1515/nanoph-2022-0201",
+   "notes": []
+  },
+  {
+   "id": "J109",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Hezhu Shao*, Daquan Ding, Li Zhang, Chang-Kun Dong and Hao Zhang*",
+   "title": "High thermoelectric performance in a Si allotrope with ultralow thermal conductivity first-principles study combining phonon-limited electronic transport calculations",
+   "venue": "Materials Today Physics 27:100756 (2022)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "温州大学发现一种具有极低热导率的硅同素异形体——戊硅并探索其在热电方面的潜在应用",
+     "url": "https://mp.weixin.qq.com/s/fIawouzEHVl-X-MtTNCkwg"
+    }
+   ]
+  },
+  {
+   "id": "J108",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Xiao-Xi Li, Guang Zeng, Yu-Chun Li, Hao Zhang, Zhi-Gang Ji, Ying-Guo Yang*, Man Luo, Wei-Da Hu, David Wei Zhang and Hong-Liang Lu",
+   "title": "High responsivity and flexible deep-UV phototransistor based on Ta-doped β-Ga2O3",
+   "venue": "npj flexible electronics 6:47 (2022)",
+   "notes": []
+  },
+  {
+   "id": "J107",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Congcong Ma, Zhengyuan Wu, Zhuoxun Jiang, Ying Chen, Wei Ruan, Hao Zhang*, Heyuan Zhu, Guoqi Zhang, Junyong Kang, Tong-Yi Zhang, Junhao Chu and Zhilai Fang*",
+   "title": "Exploring the feasibility and conduction mechanisms of P-type nitrogen-doped β-Ga2O3 with high hole mobility",
+   "venue": "Journal of Materials Chemistry C 10, 6673-6681 (2022)",
+   "notes": []
+  },
+  {
+   "id": "J106",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Yu Wu, Junbo He, Ying Chen, Mingran Kong, Yiming Zhang, Xiaobing Hu, Jianwei Lian, Hao Zhang*, and Rongjun Zhang*",
+   "title": "Excellent response to near ultraviolet light and strong intervalley scatterings of electrons in 2D SnS2",
+   "venue": "Nanoscale 14, 5462-5471 (2022)",
+   "notes": []
+  },
+  {
+   "id": "J105",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Xue-Feng Zhao, Shi-Qi Yang, Xiao-Hong Wen, Qi-Wei Huang, Peng-Fei Qiu, Tian-Ran Wei, Hao Zhang, Jia-Cheng Wang, David Wei Zhang, Xun Shi, Hong-Liang Lu",
+   "title": "A Fully Flexible Intelligent Thermal Touch Panel Based on Intrinsically Plastic Ag2S Semiconductor",
+   "venue": "Advanced Materials 2022, 2107479 (2022)",
+   "notes": []
+  },
+  {
+   "id": "J104",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Haodong Mei, Yujie Xia, Yiming Zhang, Yu Wu, Ying Chen, Congcong Ma, Mingran Kong, Lei Peng, Heyuan Zhu, and Hao Zhang*",
+   "title": "Finite-momentum excitons and role of electron-phonon couplings to electronic and phonon transport properties in boron arsenide",
+   "venue": "Phys. Chem. Chem. Phys. 24, 9384-9393 (2022)",
+   "notes": []
+  },
+  {
+   "id": "J103",
+   "type": "journal",
+   "group": "2022",
+   "year": 2022,
+   "authors": "Yiming Zhang, Bowen Hou, Yu Wu, Ying Chen, Yujie Xia, Haodong Mei, Mingran Kong, Lei Peng, Hezhu Shao, Jiang Cao, Wenjun Liu*, Heyuan Zhu*, and Hao Zhang*",
+   "title": "Towards High-temperature Electron-hole Condensate Phases in Monolayer Tetrels Metal Halides: Ultra-long Excitonic Lifetimes, Phase Diagram and Exciton Dynamics",
+   "venue": "Materials Today Physics 22:100604 (2022)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J102",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Xia Cai, Yiming Zhang, Zejiao Shi, Ying Chen, Yujie Xia, Anran Yu, Yuanfeng Xu, Fengxian Xie, Hezhu Shao, Heyuan Zhu, Desheng Fu, Yiqiang Zhan* and Hao Zhang*",
+   "title": "Discovery of Lead-free Perovskites for High-performance Solar Cells via Machine Learning: Ultrabroadband Absorption, Low Radiative Combination and Enhanced Thermal Conductivities",
+   "venue": "Advanced Science 2021, 2103648 (2021)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "复旦大学张浩及詹义强课题组从18万多种物质中成功预测转换效率高达27.5%的无铅钙钛矿太阳能电池材料",
+     "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDgwMjI0MQ==&mid=2247500862&idx=1&sn=6ca523471f144ff0d40f8426919aa8af&chksm=fb741090cc039986731864570eaf406be43a860fedcd35a7cd4a9afcf5e4204f2ab179892716&scene=178&cur_album_id=1649843394766028812#rd"
+    }
+   ]
+  },
+  {
+   "id": "J101",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Liu, Siyu; Wang, Jing; Duan, Zhongtao; Zhang, Hao; Guo, Ruiqian; Xie, Fengxian",
+   "title": "Role of organic cation orientation in formamidine based perovskite materials",
+   "venue": "Scientific Reports 11:20433 (2021)",
+   "notes": []
+  },
+  {
+   "id": "J100",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Xudan Zhu; Junbo He; Rongjun Zhang; Chunxiao Cong; Yuxiang Zheng; Hao Zhang; Songyou Wang; Haibin Zhao; Meiping Zhu; Shaojuan Li; Shanwen Zhang; Liangyao Chen",
+   "title": "Effects of Interlayer Coupling on the Excitons and Electronic Structures of WS2/hBN/MoS2 van der Waals Heterostructures",
+   "venue": "Nano Research (2021) DOI: doi.org/10.1007/s12274-021-3774-4",
+   "notes": []
+  },
+  {
+   "id": "J99",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Wu, Simin; Lu, Zixuan; Hu, Anqi; Miao, Xianchong; Wang, Fanjie; Sun, Zhengzong; Yan, Hugen; Zhang, Hao*; Ji, Minbiao*",
+   "title": "Dichroic Photoelasticity in Black Phosphorus Revealed by Ultrafast Coherent Phonon Dynamics",
+   "venue": "The Journal of Physical Chemistry Letters 12, 5871-5878 (2021)",
+   "notes": []
+  },
+  {
+   "id": "J98",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Yu Wu*, Bowen Hou*, Ying Chen, Jiang Cao, Congcong Ma, Hezhu Shao**, Yiming, Zhang, Zixuan Lu, Heyuan Zhu, Zhilai Fang, Rongjun Zhang** and Hao Zhang**",
+   "title": "Strong Electron-phonon Coupling and its Influence on Carrier Transport and Thermoelectric Performances in Buckled Group-IV and V Elemental Monolayers",
+   "venue": "arXiv:2010.05219 (2020) npj Computational Materials 7:145 (2021)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "全电-声子耦合：能带汇聚材料热电性能评估的关键因素",
+     "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDgwMjI0MQ==&mid=2247495344&idx=1&sn=cb9a5e7387dcd109c1e10f7a27b70ca9&chksm=fb743a1ecc03b308114a1f1829f23508e7adc04d4d8d417dd4ab721d8e891581c07ab6e499bd&scene=178&cur_album_id=1649843394766028812#rd"
+    }
+   ]
+  },
+  {
+   "id": "J97",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Ying Chen, Yu Wu, Bowen Hou, Jiang Cao, Hezhu Shao, Yiming Zhang, Haodong Mei, Zhilai Fang*, Heyuan Zhu* and Hao Zhang*",
+   "title": "Renormalized thermoelectric figure of merit in band-convergent Sb2Te2Se monolayer: full electron-phonon interactions and selection rules",
+   "venue": "Journal of Materials Chemistry A 9:16108-16118 (2021)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J96",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Jiang Cao*, Yu Wu, Hao Zhang*, Demetrio Logoteta, Shengli Zhang*, Marco Pala",
+   "title": "Dissipative Transport and Phonon Scattering Suppression via Valley Engineering in Single-Layer Antimonene and Arsenene Field-Effect Transistors",
+   "venue": "arXiv:2101.08392 npj 2D Materials and Applications 5:59 (2021)",
+   "notes": [
+    {
+     "code": "high-impact"
+    },
+    {
+     "code": "media"
+    }
+   ]
+  },
+  {
+   "id": "J95",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Yu Wu, Bowen Hou, Congcong Ma, Jiang Cao, Ying Chen, Zixuan Lu, Haodong Mei, Hezhu Shao, Yuanfeng Xu*, Heyuan Zhu, Zhilai Fang, Rongjun Zhang* and Hao Zhang*",
+   "title": "Thermoelectric performance of 2D materials: band-convergent strategy and strong intervalley scatterings",
+   "venue": "arXiv:2001.07499 (2020) Materials Horizons 8:1253-1263 (2021)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ],
+   "media": [
+    {
+     "label": "全电声耦合作用修正热电优值：再议能带汇聚策略",
+     "url": "https://mp.weixin.qq.com/s?__biz=MzU0NDgwMjI0MQ==&mid=2247495344&idx=1&sn=cb9a5e7387dcd109c1e10f7a27b70ca9&chksm=fb743a1ecc03b308114a1f1829f23508e7adc04d4d8d417dd4ab721d8e891581c07ab6e499bd&scene=178&cur_album_id=1649843394766028812#rd"
+    }
+   ]
+  },
+  {
+   "id": "J94",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Ke Xu, Xintong Zhang, Kaifa Luo, Rui Yu*, Dan Li and Hao Zhang*",
+   "title": "Coexistence of topological edge states and skin effects in the non-Hermitian Su-Schrieffer-Heeger model with long-range nonreciprocal hopping in topoelectric realizations",
+   "venue": "Phys Rev B 103:125411 (2021)",
+   "notes": []
+  },
+  {
+   "id": "J93",
+   "type": "journal",
+   "group": "2021",
+   "year": 2021,
+   "authors": "Xintong Zhang, Ke Xu, Chunmin Liu, Xiaoxiao Song, Bowen Hou, Rui Yu*, Hao Zhang*, Dan Li and Jing Li*",
+   "title": "Gauge-dependent topology in non-reciprocal systems with pseudo-Hermitian symmetry",
+   "venue": "Communications Physics 4:166 (2021)",
+   "notes": []
+  },
+  {
+   "id": "J92",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Xudan Zhu, Junbo He, Rongjun Zhang*, Chunxiao Cong*, Yuxiang Zheng, Hao Zhang, Shanwen Zhang*, and Liangyao Chen",
+   "title": "Effects of dielectric screening on the excitonic and critical points properties of WS2/MoS2 heterostructures",
+   "venue": "Nanoscale 12(46):23732-23739 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J91",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Xu, Yuanfeng*; Liu, Yifan; Chen, Ying; Zhang, Hao**; Sun, Songsong; Ji, Yanju",
+   "title": "Two-dimensional direct semiconductor boron monosulfides γ-BTe: room-temperature single-bound exciton and novel donor material in excitonic solar cells",
+   "venue": "ACS Applied Materials & Interfaces 12:58349-58359 (2020)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J90",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Zhuoxun Jiang, Zhengyuan Wu, Congcong Ma, Jianan Deng, Hao Zhang, Yang Xu, Jiandong Ye, Zhilai Fang*, Guoqi Zhang, Junyong Kang, and Tong-Yi Zhang",
+   "title": "P-type β-Ga2O3 metal-semiconductor-metal solar-blind photodetectors with extremely high responsivity and gain-bandwidth product",
+   "venue": "Materials Today Physics 14:100226 (2020)",
+   "notes": [
+    {
+     "code": "high-impact"
+    },
+    {
+     "code": "nsfc-highlight"
+    }
+   ]
+  },
+  {
+   "id": "J89",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Hou, Bowen; Zhang, Yiming; Zhang, Hao*; Shao, Hezhu*; Ma, Congcong; Zhang, Xintong; Chen, Ying; Xu, Ke; Ni, Gang*; Zhu, Heyuan",
+   "title": "Room Temperature Bound Excitons and Strain-Tunable Carrier Mobilities in Janus Monolayer Transition-Metal Dichalcogenides",
+   "venue": "The Journal of Physical Chemistry Letters 11:3116-3128 (2020)",
+   "notes": [
+    {
+     "code": "link",
+     "label_en": "Video presentation",
+     "label_zh": "视频讲解",
+     "url": "https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.0c00520/suppl_file/jz0c00520_liveslides.mp4"
+    }
+   ]
+  },
+  {
+   "id": "J88",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Xu, Yuanfeng*; Xu, Ke; Ma, Congcong; Chen, Ying; Zhang, Hao*; Liu, Yifan; Ji, Yanju",
+   "title": "Novel two-dimensional $\\beta$-GeSe and $\\beta$-SnSe semiconductors: anisotropic high carrier mobility and excellent photocatalytic water splitting",
+   "venue": "Journal of Materials Chemistry A, 8, 19612-19622 (2020), DOI: 10.1039/D0TA06299E",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J87",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Xudan Zhu, Dahai Li, Rongjun Zhang, Hao Zhang, Chunxiao Cong, Meiping Zhu, Yuejie Shi, Yu Wu, Songyou Wang, Yuxiang Zheng, Liangyao Chen",
+   "title": "Probing Quantum Confinement Effects on the Excitonic Property and Electronic Band Structures of MoS2",
+   "venue": "Applied Surface Science 519:146262 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J86",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Xue-Feng Zhao, Cheng-Zhou Hang, Xiao-Hong Wen, Meng-Yang, Liu, Hao Zhang, Fan Yang, Ru-Guang Ma, Jia-Cheng Wang, David Wei Zhang, Hong-Liang Lu",
+   "title": "Ultrahigh-Sensitive Finlike Double-Sided E-Skin for Force Direction Detection",
+   "venue": "ACS Applied Materials & Interfaces 12:14136-14144 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J85",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Yifan Liu, Yuanfeng Xu*, Yanju Ji and Hao Zhang**",
+   "title": "Monolayer Bi2Se3-xTex: novel two-dimensional semiconductors with excellent stability and high electron mobility",
+   "venue": "Phys. Chem. Chem. Phys. 22:9685-9692 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J84",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Yu Wu*, Ying Chen*, Congcong Ma*, Zixuan Lu, Hao Zhang*, Bohayra Mortazavi, Bowen Hou, Ke Xu, Haodong Mei, Timon Rabczuk, Heyuan Zhu*, Zhilai Fang, Rongjun Zhang* and Costas M. Soukoulis",
+   "title": "Monolayer C7N6: Room-temperature excitons with large binding energies and high thermal conductivities",
+   "venue": "Phys Rev Materials 4:064001 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J83",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Wenjun Liu, Hemei Zheng, Kahwee Ang, Hao Zhang, Huan Liu, Jun Han, Weiguo Liu, Qingqing Sun, Shijin Ding, David Wei Zhang",
+   "title": "Temperature-stable black phosphorus field-effect transistors through effective phonon scattering suppression on atomic layer deposited aluminum nitride",
+   "venue": "Nanophotonics https://doi.org/10.1515/nanoph-2020-0075 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J82",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Bo Peng, Hao Zhang*, Weiwen Chen, Bowen Hou, Zhi-Jun Qiu, Hezhu Shao, Heyuan Zhu*, Bartomeu Monserrat, Desheng Fu*, Hongming Weng, Costas M Soukoulis",
+   "title": "Sub-picosecond photo-induced displacive phase transition in two-dimensional MoTe2",
+   "venue": "arXiv:1903.09757, npj 2D Materials and Applications 4:14 DOI: 10.1038/s41699-020-0147-x (2020)",
+   "notes": [
+    {
+     "code": "high-impact"
+    },
+    {
+     "code": "media"
+    }
+   ]
+  },
+  {
+   "id": "J81",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Xue-Feng Zhao; Cheng-Zhou Hang; Hong-Liang Lu, Ke Xu; Hao Zhang; Fan Yang; Ru-Guang Ma; Jia-Cheng Wang; David Wei Zhang",
+   "title": "A Skin-Like Sensor for Intelligent Braille Recognition",
+   "venue": "Nano Energy 68, 104346 (2020)",
+   "notes": []
+  },
+  {
+   "id": "J80",
+   "type": "journal",
+   "group": "2020",
+   "year": 2020,
+   "authors": "Yu Wu*, Congcong Ma*, Ying Chen*, Bohayra Mortazavi, Zixuan Lu, Xintong, Zhang, Ke Xu, Hao Zhang*, Wenjun Liu*, Timon Rabczuk, Heyuan Zhu, Zhilai Fang, and Rongjun Zhang*",
+   "title": "New group V-graphyne: 2D direct semiconductors with remarkable carrier mobilities, thermoelectric performance and thermal stability",
+   "venue": "Materials Today Physics 12:100164 (2020) DOI: 10.1016/j.mtphys.2019.100164",
+   "notes": [
+    {
+     "code": "high-impact"
+    },
+    {
+     "code": "media"
+    }
+   ]
+  },
+  {
+   "id": "J79",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Lu, Zixuan; Wu, Yu; Ma, Congcong; Chen, Ying; Xu, Ke; Zhang, Hao*; Zhu, Heyuan; Fang, Zhilai*",
+   "title": "Ultrahigh electron mobility induced by strain engineering in directly semiconducting monolayer Bi$_2$TeSe$_2$",
+   "venue": "Nanoscale 11:20620 - 20629 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J78",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Ya-Wei Huan*; Ke Xu*; Wen-Jun Liu; Hao Zhang; Dmitriy Anatolyevich Golosov; Chang-Tai Xia; Hong-Yu Yu; Xiao-Han Wu; Qing-Qing Sun; Shi-Jin Ding",
+   "title": "Investigation of band alignment for hybrid 2D-MoS2/3D-β-Ga2O3 heterojunctions with nitridation",
+   "venue": "Nanoscale Research Letters 14:360 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J77",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Chen, Ying; Wu, Yu; Xu, Ke; Ma, Congcong; Lu, Zixuan; Zhang, Xintong; Zhang, Hao*; Zhu, Heyuan; Fang, Zhilai*",
+   "title": "New Sb2Te3-xSex monolayers with high electron mobilities and wide absorption range",
+   "venue": "ACS Applied Materials & Interfaces 11:37216-37228 (2019) DOI: 10.1021/acsami.9b10682",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J76",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Yu Wu*, Ke Xu*, Congcong Ma, Ying Chen, Zixuan Lu, Hao Zhang**, Zhilai Fang, Rongjun Zhang**",
+   "title": "Ultrahigh carrier mobilities and high thermoelectric performance at room temperature optimized by strain-engineering to two-dimensional aw-antimonene",
+   "venue": "Nano Energy 63:103870 (2019)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J75",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Liu, Chunmin; Cheng, Ling; Yuan, Yafei; Su, Jing; Zhang, Xintong; Li, Xiangxiang; Zhao, Haibin; Zhang, Hao; Zheng, Yu-Xiang; Li, Jing",
+   "title": "Contrastive investigation on linear optical properties and nonlinear absorption behaviors between Sb2Se3 and Sb2Te3 thin films",
+   "venue": "Materials Research Express. DOI: 10.1088/2053-1591/ab23b0 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J74",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Chunmin liu, Yafei Yuan, Ling Cheng, Jing Su, Xintong Zhang, Xiangxiang Li, Hao Zhang, Min Xu and Jing Li",
+   "title": "A study on optical properties of Sb2Se3 thin films and resistive switching behavior in Ag/Sb2Se3/W heterojunctions",
+   "venue": "Results in Physics 13:102228 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J73",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Yuanfeng Xu*, Ke Xu, Hao Zhang*",
+   "title": "First-principles calculations of angular and strain dependence on effective masses of two-dimensional phosphorene analogues (monolayer group IV monochalcogenides MX)",
+   "venue": "Molecules 24:639 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J72",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Jiajia Tao, Hong-Liang Lu, Yang Gu, Hong-Ping Ma, Xing Li, Jin-Xin Chen, Wen-Jun Liu, Hao Zhang, Ji-Jun Feng",
+   "title": "Investigation of growth characteristics, compositions, and properties of atomic layer deposited amorphous Zn-doped Ga2O3 films",
+   "venue": "Appl. Surf. Sci. 476, 733 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J71",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Peng, Bo; Mei, Haodong; Zhang, Hao*; Shao, Hezhu; Xu, Ke; Ni, Gang; Jin, Qingyuan; Soukoulis, Costas; Zhu, Heyuan",
+   "title": "High thermoelectric efficiency in monolayer PbI2 from 300 K to 900 K",
+   "venue": "arXiv:1811.04244 (2018), Inorganic Chemistry Frontiers 6, 920 - 928 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J70",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Yu Chen#, Bo Peng#, Chunxiao Cong*, Jingzhi Shang, Lishu Wu, Weihuang Yang, Jiadong Zhou, Peng Yu, Hongbo Zhang, Yanlong Wang, Chenji Zou, Jing Zhang, Sheng Liu, Qihua Xiong, Hezhu Shao, Zheng Liu*, Hao Zhang*, Wei Huang and Ting Yu*",
+   "title": "In-Plane Anisotropic Thermal Conductivity of Few-Layered Transition Metal Dichalcogenide Td-WTe2",
+   "venue": "Advanced Materials, 31 (7):1804979 (2019)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J69",
+   "type": "journal",
+   "group": "2019",
+   "year": 2019,
+   "authors": "Da Xu, Yafei Yuan, Huanfeng Zhu, Ling Cheng, Chunmin Liu, Jing Su, Xintong Zhang, Hao Zhang, Xia Zhang, Jing Li",
+   "title": "Nanostructure and optical property investigations of SrTiO3 films deposited by magnetron sputtering",
+   "venue": "Materials. 12:138 (2019)",
+   "notes": []
+  },
+  {
+   "id": "J68",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Ke Xu, Yuanfeng Xu, Hao Zhang*, Bo Peng, Hezhu Shao, Gang Ni, Jing Li, Mingyuan Yao, Hongliang Lu, Heyuan Zhu, Costas M. Soukoulis",
+   "title": "Electronic, optical and transport properties of van der Waals Transition-metal Dichalcogenides Heterostructures: A First-principle Study",
+   "venue": "Phys. Chem. Chem. Phys. 2018, 20, 30351-30364",
+   "notes": []
+  },
+  {
+   "id": "J67",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Bo Peng, Bohayra Mortazavi, Hao Zhang*, Hezhu Shao, Ke Xu, Jing Li, Gang Ni, Timon Rabczuk, Heyuan Zhu",
+   "title": "Tuning thermal transport in monolayer C3N by adding and removing carbon atoms",
+   "venue": "Phys Rev Applied 10, 034046 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J66",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Peng, Bo; Zhang, Hao*; Shao, Hezhu; Xu, Ke; Ni, Gang; Wu, Liangcai; Li, Jing; Lu, Hong-Liang; Jin, Qingyuan; Zhu, Heyuan",
+   "title": "Room temperature bound exciton with long lifetime in monolayer GaN",
+   "venue": "ACS Photonics 5:4081-4088 (2018)",
+   "notes": [
+    {
+     "code": "optics-top"
+    }
+   ]
+  },
+  {
+   "id": "J65",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Bo Peng, Changming Yue, Hao Zhang*, Zhong Fang and Hongming Weng*",
+   "title": "Dirac semimetals in Sodium Ternary Compounds from Material Design on Na3Bi",
+   "venue": "arXiv:1807.01434 npj Computational Materials. 4:68 (2018)",
+   "notes": [
+    {
+     "code": "high-impact"
+    },
+    {
+     "code": "media"
+    }
+   ]
+  },
+  {
+   "id": "J64",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Xinran Cao, Caimin Meng, Jing Li, Jun Wang, Yafei Yuan, Jing Su, Chunmin Liu, Xintong Zhang, Hao Zhang and Jianlu Wang",
+   "title": "Characterization of interfacial barrier charging as a resistive switching mechanism in Ag/Sb2Te3/Ag heterojunctions",
+   "venue": "Phys. Chem. Chem. Phys., DOI: 10.1039/C8CP00901E",
+   "notes": []
+  },
+  {
+   "id": "J63",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Jin-Xin Chen, Jia-Jia Tao, Hong-Ping Ma, Hao Zhang, Ji-Jun Feng, Wen-Jun Liu, Changtai Xia, Hong-Liang Lu and David Wei Zhang",
+   "title": "Band alignment of AlN/β-Ga2O3 heterojunction interface measured by x-ray photoelectron spectroscopy",
+   "venue": "Appl. Phys. Lett. 112, 261602 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J62",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Bo Peng, Ke Xu, Hao Zhang*, Hezhu Shao, Gang Ni, Jing Li, Liangcai Wu, Hongliang Lu, Qingyuan Jin, and Heyuan Zhu",
+   "title": "Theoretical investigation of novel electronic, optical, mechanical and thermal properties of metallic hydrogen at 495 GPa",
+   "venue": "arXiv:1805.10920",
+   "notes": []
+  },
+  {
+   "id": "J61",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Yafei Yuan, Chunmin Liu, Jing Su, Ling Cheng, Jie Fang, Xintong Zhang, Yan Sun, Yanqing Wu, Hao Zhang, and Jing Li",
+   "title": "Structural and Optical Properties of Ti-Doped InTe Thin Films",
+   "venue": "J. Phys. Chem. C, 2018, 122 (11), pp 6267–6272",
+   "notes": []
+  },
+  {
+   "id": "J60",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Xiaolei Zhang, Min Xu, Xiangqian Jiang, Hao Zhang and Xiangchao Zhang",
+   "title": "Accurate reconstruction in digital holographic microscopy using anti-aliasing shift-invariant contourlet transform",
+   "venue": "Optical Engineering 57(3), 034108 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J59",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Tao Wang, Hong-Ping Ma, Jian-Guo Yang, Jing-Tao Zhu, Hao Zhang, Jijun Feng, Shi-Jin Ding, Hong-Liang Lu and David Wei Zhang",
+   "title": "Investigation of the optical and electrical properties of ZnO/Cu/ZnO multilayers grown by atomic layer deposition",
+   "venue": "Journal of Alloys and Compounds. DOI: 10.1016/j.jallcom.2018.02.115 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J58",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Zhang, Xiaolei; Wang, Jie; Zhang, Xiangchao; Xu, Min; Zhang, Hao; Jiang, Xiangqian",
+   "title": "Correction of phase-shifting error in wavelength scanning digital holographic microscopy",
+   "venue": "Measurement Science and Technology 29, 055002 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J57",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Yafei Yuan, Xinran Cao, Yan Sun, Jing Su, Chunmin Liu, Ling Cheng, Yaopeng Li, Lihua Yuan, Hao Zhang, Jing Li",
+   "title": "Intrinsic mechanism in nonvolatile polycrystalline zirconium oxide sandwiched structure",
+   "venue": "Journal of Materials Science: Materials in Electronics. 29:2301–2306 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J56",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Zhao, Jing; Ma, Fajun; Ding, Ke; Zhang, Hao; Jie, Jiansheng; Ho-Baillie, Anita; Bremner, Stephen",
+   "title": "Transport mechanism in high-efficiency n Si/HNO3-doped graphene solar cell based on advanced interface modelling",
+   "venue": "Appl. Surf. Sci. 434, 102-111 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J55",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Ke Xu, Gang Ni, Jing Li, Heyuan Zhu and Costas M. Soukoulis",
+   "title": "Chemical intuition for high thermoelectric performance in monolayer black phosphorus, α-arsenene and aW-antimonene",
+   "venue": "J Mater Chem A, 6, 2018-2033 (2018)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J54",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Xiaolei Zhang; Xiangchao Zhang; Min Xu; Hao Zhang; Xiangqian Jiang",
+   "title": "Phase unwrapping in digital holography based on non-subsampled contourlet transform",
+   "venue": "Opt. Common. 407:367-374 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J53",
+   "type": "journal",
+   "group": "2018",
+   "year": 2018,
+   "authors": "Shao, Hezhu; Jin, Min; Peng, Bo; Zhang, Hao*; Tan, Xiaojian; Liu, Guoqiang; Jiang, Haochuan; Jiang, Jun",
+   "title": "First-Principles Study of Manipulating the Phonon Transport of Molybdenum Disulfide by Sodium Intercalating",
+   "venue": "J Phys Chem C, 122, 2632-2640 (2018)",
+   "notes": []
+  },
+  {
+   "id": "J52",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Fang, Jie; Wang, Jun; Cao, Xinran; Man, Yixin; Liu, Chunmin; Cheng, Ling; Zhang, Xia; Zhao, Haibin; Zhang, Hao; Li, Jing",
+   "title": "Thickness dependence of a giant nonlinear saturable absorption response in GeSb4Te7 thin films",
+   "venue": "Journal of Physics Communications. DOI: 10.1088/2399-6528/aaa2f3 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J51",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Songlin Wan, Xiangchao Zhang, Hao Zhang, Min Xu, Xiangqian Jiang",
+   "title": "Modeling and analysis of sub-aperture tool influence functions for polishing curved surfaces",
+   "venue": "Precision Engineering, DOI: doi.org/10.1016/j.precisioneng.2017.09.013 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J50",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Yafei Yuan, Xinran Cao, Yan Sun, Jing Su, Chunmin Liu, Ling Cheng, Lihua Yuan, Hao Zhang and Jing Li",
+   "title": "Memresistive behaviors in In2Se3 asymmetrical hetero-structures",
+   "venue": "RSC Adv. 7, 46431-46435 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J49",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Dequan Zhang, Yuchen Xu, Ke Xu, Hao Zhang*, Jing Li, Heyuan Zhu, Costas Soukoulis",
+   "title": "Coupling of evanescent waves into propagation channels within two-dimensional random waveguides",
+   "venue": "arXiv:1709.03017, submitted to Phys. Rev. B (2017)",
+   "notes": []
+  },
+  {
+   "id": "J48",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Yuanfeng Xu, Hao Zhang*, Hezhu Shao, Gang Ni, Jing Li, Hongliang Lu, Rongjun Zhang, Bo Peng, Yongyuan Zhu, Heyuan Zhu and Costas M Soukoulis",
+   "title": "Electronic, transport and optical properties of monolayer α and β−GeSe: A first-principles study",
+   "venue": "Phys. Rev. B 96, 245421 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J47",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Li, Dahai; Zheng, Hua; Wang, Ziyi; Zhang, Rong-Jun; Zhang, Hao; et al",
+   "title": "Dielectric functions and critical points of crystalline WS2 ultrathin films with tunable thickness",
+   "venue": "Physical Chemistry Chemical Physics 19:12022-12031 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J46",
+   "type": "journal",
+   "group": "2017",
+   "year": 2018,
+   "authors": "Bo Peng, Ke Xu, Hao Zhang*, Zeyu Ning, Hezhu Shao, Gang Ni, Jing Li, Yongyuan Zhu, Heyuan Zhu and Costas M Soukoulis",
+   "title": "1D SbSeI, SbSI and SbSBr with high stability and novel properties for microelectronic, optoelectronic, and thermoelectric applications",
+   "venue": "Advanced Theory and Simulations 1:1700005 (2018)",
+   "notes": [
+    {
+     "code": "cover"
+    },
+    {
+     "code": "top-downloaded",
+     "detail": "2018-2019"
+    }
+   ]
+  },
+  {
+   "id": "J45",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Bo Peng, Dequan Zhang, Hao Zhang*, Hezhu Shao, Gang Ni, Yongyuan Zhu and Heyuan Zhu",
+   "title": "The conflicting role of buckled structure in phonon transport",
+   "venue": "Nanoscale 9, 7397-7407 (2017)",
+   "notes": [
+    {
+     "code": "back-cover"
+    },
+    {
+     "code": "esi",
+     "detail": "(July 2018)"
+    }
+   ]
+  },
+  {
+   "id": "J44",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Yang, Huailiang; Zhang, Xiangchao; Zhang, Hao; He, Xiaoying; Xiao, Hong; Xu, Min",
+   "title": "Feature-preserving filtering for micro-structured surfaces using combined sparse regularizers",
+   "venue": "Measurement 10.1016/j.measurement.2017.03.034 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J43",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Zeyu Ning, Yuanfeng Xu, Hongliang Lu, David Wei Zhang and Heyuan Zhu",
+   "title": "Stability and Strength of Atomically Thin Borophene from First Principles Calculations",
+   "venue": "Material Research Letters 5(6):399-407 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J42",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Yuchen Xu, Hao Zhang*, Yujun Lin, Heyuan Zhu",
+   "title": "Light transmission channels in random media with inhomogeneous disorder",
+   "venue": "Ann. Phys. (Berlin) 529:1600225 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J41",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Yuanfeng Xu, Zeyu Ning, Hao Zhang*, Gang Ni, Hezhu Shao, Bo Peng, Xiangchao Zhang, Xiaoying He, Yongyuan Zhu and Heyuan Zhu",
+   "title": "The anisotropic ultrahigh hole mobility in strain-engineering two-dimensional penta-SiC2",
+   "venue": "arXiv:1701.03715 (2017) RSC Adv. 7:45705-45713 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J40",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Yuanfeng Xu, Bo Peng, Hao Zhang*, Hezhu Shao, Rongjun Zhang and Heyuan Zhu",
+   "title": "First-principle calculations of optical properties of monolayer arsenene and antimonene allotropes",
+   "venue": "Ann. Phys. (Berlin) 529:1600151 (2017)",
+   "notes": [
+    {
+     "code": "back-cover"
+    }
+   ]
+  },
+  {
+   "id": "J39",
+   "type": "journal",
+   "group": "2017",
+   "year": 2017,
+   "authors": "Li, Dahai; Song, Xiongfei; Xu, Jiping; Wang, Ziyi; Zhang, Rong-Jun; Zhou, Peng; Zhang, Hao; Wang, Songyou; Zheng, Yuxiang; Zhang, David Wei; Chen, Liangyao",
+   "title": "Optical properties of thickness-controlled MoS2 thin films studied by spectroscopic ellipsometry",
+   "venue": "Appl. Surf. Sci. 421:884-890 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J38",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Zeyu Ning, Hao Zhang*, Hezhu Shao, Yuanfeng Xu, Gang Ni and Heyuan Zhu",
+   "title": "Beyond Perturbation: Role of Vacancy-Induced Localized Phonon States in Thermal Transport of Monolayer MoS2",
+   "venue": "J Phys Chem C 120 (51): 29324–29331 (2016)",
+   "notes": []
+  },
+  {
+   "id": "J37",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Chen, Hong-Yan; Lu, Hong-Liang; Sun, Long; Ren, Qing-Hua; Zhang, Hao; Ji, Xin-Ming; Liu, Wen-Jun; Ding, Shi-Jin; Zhang, David Wei",
+   "title": "Realizing a facile and environmental-friendly fabrication of high-performance multicrystalline silicon solar cells by employing ZnO nanostructures and an Al2O3 passivation layer",
+   "venue": "Sci. Rep. 6:38486 (2016)",
+   "notes": []
+  },
+  {
+   "id": "J36",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Hongliang Lu, David Wei Zhang and Heyuan Zhu",
+   "title": "High thermoelectric performance of Weyl semimetal TaAs",
+   "venue": "Nano Energy 30, 225-234 (2016)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J35",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Hezhu Shao, Hao Zhang, Bo Peng, Xiaojian Tan, Guo-Qiang Liu, Jun Jiang and Haochuan Jiang",
+   "title": "First-principles study on the intrinsic phonon transport of Cu(2)GeSe(3)",
+   "venue": "EPL, 115 26002 (2016)",
+   "notes": []
+  },
+  {
+   "id": "J34",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Yuan Zhang, Hong-Liang Lu, Tao Wang, Qing-Hua Ren, Hong-Yan Chen, Hao Zhang, Wen-Jun Liu, Shi-Jin Ding and David Wei Zhang",
+   "title": "Photoluminescence enhancement of ZnO nanowire arrays with atomic layer deposited ZrO2 coatings and thermal annealing",
+   "venue": "Physical Chemistry Chemical Physics, 18, 16377 (2016)",
+   "notes": []
+  },
+  {
+   "id": "J33",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Yuanfeng Xu, Rongjun Zhang, Hongliang Lu, David Wei Zhang and Heyuan Zhu",
+   "title": "First-principles prediction of ultralow lattice thermal conductivity of dumbbell silicene: A comparison with low-buckled silicene",
+   "venue": "ACS Applied Materials & Interfaces, 8, 20977−20985 (2016)",
+   "notes": [
+    {
+     "code": "high-impact"
+    }
+   ]
+  },
+  {
+   "id": "J32",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Yuanfeng Xu, Gang Ni, Rongjun Zhang and Heyuan Zhu",
+   "title": "Ab initio study of phonon-transport properties of two-dimensional group-IV materials",
+   "venue": "Phys. Rev. B 94, 245420 (2016)",
+   "notes": []
+  },
+  {
+   "id": "J31",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Yuanfeng Xu, Rongjun Zhang, Heyuan Zhu",
+   "title": "First-principles calculations of electronic, optical, and thermodynamic properties of borophene",
+   "venue": "J Mater Chem C, 4, 3592 - 3598 (2016)",
+   "notes": [
+    {
+     "code": "esi",
+     "detail": "(Jul/Aug 2016) in Materials"
+    }
+   ]
+  },
+  {
+   "id": "J30",
+   "type": "journal",
+   "group": "2016",
+   "year": 2017,
+   "authors": "Yuchen Xu, Hao Zhang*, Yujun Lin, Heyuan Zhu",
+   "title": "Light transport behaviours in quasi-1D disordered waveguides composed of random photonic lattices",
+   "venue": "arXiv:1512.06489 J Mod Opt 64:1215 (2017)",
+   "notes": []
+  },
+  {
+   "id": "J29",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Yuchen Xu, Xiangchao Zhang, Heyuan Zhu",
+   "title": "Thermal conductivity of monolayer MoS2, MoSe2, and WS2: Interplay of mass effect, interatomic bonding and anharmonicity",
+   "venue": "RSC Adv. 6:5767-5773 (2016)",
+   "notes": [
+    {
+     "code": "esi",
+     "detail": "(Mar 2017) in Materials"
+    }
+   ]
+  },
+  {
+   "id": "J28",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Yuanfeng Xu, Xiangchao Zhang, Heyuan Zhu",
+   "title": "Towards intrinsic phonon transport in single-layer MoS2",
+   "venue": "Ann. Phys. (Berlin), 528(6):504-511 (2016)",
+   "notes": [
+    {
+     "code": "back-cover"
+    }
+   ]
+  },
+  {
+   "id": "J27",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "Bo Peng, Hao Zhang*, Hezhu Shao, Yuchen Xu, Xiangchao Zhang, Heyuan Zhu",
+   "title": "Low Lattice Thermal Conductivity in Stanene",
+   "venue": "Sci. Rep. 6:20225 (2016)",
+   "notes": [
+    {
+     "code": "esi",
+     "detail": "(Jul/Aug 2016) in Physics"
+    }
+   ]
+  },
+  {
+   "id": "J26",
+   "type": "journal",
+   "group": "2016",
+   "year": 2016,
+   "authors": "X He, M Xu, X Zhang and H Zhang",
+   "title": "A tutorial intruduction to graphene-microfibre waveguide and its applications",
+   "venue": "Front. Optoelect. 9 (4), 535-543 (2016)",
+   "notes": []
+  },
+  {
+   "id": "J25",
+   "type": "journal",
+   "group": "2015",
+   "year": 2015,
+   "authors": "L Li, X Zhang, H Zhang, X He and M Xu",
+   "title": "Feature extraction of non-stochastic surfaces using curvelets",
+   "venue": "Prec. Eng., 2015; 39:212-219",
+   "notes": []
+  },
+  {
+   "id": "J24",
+   "type": "journal",
+   "group": "2015",
+   "year": 2015,
+   "authors": "X Zhang, H Zhang, X He and M Xu",
+   "title": "Fast evaluation of minimum zone form errors of NURBS surfaces",
+   "venue": "Proc. CIRP, 2015; 27:23-28",
+   "notes": []
+  },
+  {
+   "id": "J23",
+   "type": "journal",
+   "group": "2015",
+   "year": 2015,
+   "authors": "Xin Jin, Hao Zhang*, Yuchen Xu, Xiangchao Zhang and Heyuan Zhu",
+   "title": "Representation and focusing properties of higher-order radially polarized Laguerre-Gaussian beams",
+   "venue": "J. Mod. Opt. 62(8):626-632 (2015)",
+   "notes": []
+  },
+  {
+   "id": "J22",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2015,
+   "authors": "Linfu Li, Xiangchao Zhang, Hao Zhang, Xiaoying He and Min Xu",
+   "title": "Multiscale Analysis of Surface Morphologies by Curvelet and Contourlet Transforms",
+   "venue": "Surf. Topogr.: Metrol. Prop. 3:015003 (2015)",
+   "notes": []
+  },
+  {
+   "id": "J21",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2014,
+   "authors": "Yuchen Xu, Hao Zhang*, Xiangchao Zhang, Yongqiang Shen, Heyuan Zhu, Ming Lei, Min Xu",
+   "title": "Transport properties of random media composed of core-shell spheres",
+   "venue": "Appl. Phys. A. 114:1223–1231 (2014)",
+   "notes": []
+  },
+  {
+   "id": "J20",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2014,
+   "authors": "Xiangchao Zhang, Hao Zhang, Xiaoying He and Min Xu",
+   "title": "Bias in parameter estimation of form errors",
+   "venue": "Surf. Topogr. 2:035006 (2014)",
+   "notes": []
+  },
+  {
+   "id": "J19",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2014,
+   "authors": "卢景红, 徐敏, 张浩",
+   "title": "透镜阵列模压加压过程型腔充型率的有限元仿真",
+   "venue": "激光与光电子学进展, 2014(2):186-191 (2014)",
+   "notes": []
+  },
+  {
+   "id": "J18",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2013,
+   "authors": "Jing Zhao, Hao Zhang*, Xiangchao Zhang, Dahai Li, Hongliang Lu and Min Xu",
+   "title": "Abnormal Behaviors of Goos-Hänchen Shift in Hyperbolic Metamaterials Made of AZO Materials",
+   "venue": "Photon. Res. 1(4):160-163 (2013)",
+   "notes": []
+  },
+  {
+   "id": "J17",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2013,
+   "authors": "Hao Zhang, Yongqiang Shen, Yuchen Xu, Heyuan Zhu, Ming Lei, Xiangchao Zhang, Min Xu",
+   "title": "Effective medium theory for two-dimensional random media composed of core-shell cylinders",
+   "venue": "Opt. Commun., 306:9-16 (2013)",
+   "notes": []
+  },
+  {
+   "id": "J16",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2013,
+   "authors": "X Zhang, M Xu, H Zhang, X He and X Jiang",
+   "title": "Chebyshev fitting of complex surfaces for precision metrology",
+   "venue": "Measurement 46(9):3720-3724 (2013)",
+   "notes": []
+  },
+  {
+   "id": "J15",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2013,
+   "authors": "B Chen, X Zhang, H Zhang, X He and M Xu",
+   "title": "Investigation of Error Separation for Three Dimensional Rotary Profile Measuring System",
+   "venue": "Measurement. 47:627–632 (2013)",
+   "notes": []
+  },
+  {
+   "id": "J14",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2013,
+   "authors": "Xiaoying He, Xiangchao Zhang, Hao Zhang and Min Xu",
+   "title": "Graphene Covered on Microfiber Exhibiting Polarization and Polarization-dependent Saturable Absorption",
+   "venue": "IEEE J. Sel. Top. Quant. Elect., 20(1):4500107 (2013)",
+   "notes": []
+  },
+  {
+   "id": "J13",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2011,
+   "authors": "Hao Zhang, Pengfei Zhu, Yuchen Xu, Heyuan Zhu and Min Xu",
+   "title": "Effective medium theory for random media composed of two-layered spheres",
+   "venue": "J. Opt. Soc. Am. A 28(11):2292-2297 (2011)",
+   "notes": [
+    {
+     "code": "vjbo"
+    }
+   ]
+  },
+  {
+   "id": "J12",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2011,
+   "authors": "Hao Zhang, Pengfei Zhu, Yuchen Xu, Heyuan Zhu and Min Xu",
+   "title": "Modelling the optical properties of lossless multilayered spheres",
+   "venue": "J. Opt. 13:095704 (5pp) (2011)",
+   "notes": []
+  },
+  {
+   "id": "J11",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2011,
+   "authors": "H. Zhang, H.Y. Zhu and M. Xu",
+   "title": "Transport Properties of Light in Disordered Medium Composed of Two-layered Dispersive Spheres",
+   "venue": "Opt. Expr. 19(4):2928–2940 (2011)",
+   "notes": [
+    {
+     "code": "vjbo"
+    }
+   ]
+  },
+  {
+   "id": "J10",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2010,
+   "authors": "Hao Zhang, Yan Cen, Lifan Chen, Heyuan Zhu, Liejia Qian and Dianyuan Fan",
+   "title": "Full-Angle Collimations of Two-Dimensional Photonic Crystals with Ultrahigh-Index Materials",
+   "venue": "J. Opt. 12:045103-045107 (2010)",
+   "notes": []
+  },
+  {
+   "id": "J9",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2007,
+   "authors": "Zhixiang Tang, Runwu Peng, Yunxia Ye, Chujun Zhao and Dianyuan Fan, Hao Zhang and Shuangchun Wen",
+   "title": "Optical properties of a square-lattice photonic crystal within the partial bandgap",
+   "venue": "J. Opt. Soc. Am. A, 24 (2): 379~384 (2007)",
+   "notes": []
+  },
+  {
+   "id": "J8",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2007,
+   "authors": "Zhang, H., Zhu, H., Qian, L., and Fan, D",
+   "title": "Collimations and negative refractions by slabs of 2D photonic crystals with periodically-aligned tube-type air holes",
+   "venue": "Opt. Expr. 15(6):3519–3530 (2007)",
+   "notes": []
+  },
+  {
+   "id": "J7",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2007,
+   "authors": "Tang, Z., Zhang, H., Ye, Y., Zhao, C., Peng, R., Wen, S., and Fan, D",
+   "title": "Negative refraction in a honeycomb-lattice photonic crystal",
+   "venue": "Sol. Stat. Commun. 141(4):183–187 (2007)",
+   "notes": []
+  },
+  {
+   "id": "J6",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2007,
+   "authors": "Tang, Z., Zhang, H., Peng, R., Ye, Y., Zhao, C., Wen, S., and Fan, D",
+   "title": "Subwavelength imaging with two symmetrical interfaces by dielectric-tube photonic crystals",
+   "venue": "Appl. Phys. A. 87(2):223–225 (2007)",
+   "notes": []
+  },
+  {
+   "id": "J5",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2006,
+   "authors": "Tang, Z., Zhang, H., Peng, R., Ye, Y., Zhao, C., Wen, S., and Fan, D",
+   "title": "Subwavelength imaging by a dielectric-tube photonic crystal",
+   "venue": "J. Opt. A-Pur. and Appl. Opt. 8(10):831–834 (2006)",
+   "notes": []
+  },
+  {
+   "id": "J4",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2006,
+   "authors": "Tang, Z., Zhang, H., Peng, R., Ye, Y., Shen, L., Wen, S., and Fan, D",
+   "title": "Scattering by two degenerate anisotropic modes in square-lattice dielectric photonic crystals",
+   "venue": "Phys. Rev. B, 73(23):235103-235106 (2006)",
+   "notes": []
+  },
+  {
+   "id": "J3",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2006,
+   "authors": "Zhang, H., Zhu, H., Qian, L., and Fan, D",
+   "title": "Analysis of leaky modes of photonic crystal slabs with deeply patterned lattice",
+   "venue": "J. Opt. A-Pur. and Appl. Opt. 8(5):483–488 (2006)",
+   "notes": []
+  },
+  {
+   "id": "J2",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2005,
+   "authors": "Tang, Z., Peng, R., Fan, D., Wen, S., Zhang, H., and Qian, L",
+   "title": "Absolute left-handed behaviors in a triangular elliptical-rod photonic crystal",
+   "venue": "Opt. Expr. 13(24): 9796–9803 (2005)",
+   "notes": []
+  },
+  {
+   "id": "J1",
+   "type": "journal",
+   "group": "Before 2015",
+   "year": 2004,
+   "authors": "Hao Zhang and Yongyuan Zhu",
+   "title": "The classification of the general Fibonacci optical superlattices",
+   "venue": "J. NanJing Univ. (nat. Sci.). [jnv2004] (2004)",
+   "notes": []
+  },
+  {
+   "id": "C9",
+   "type": "conference",
+   "group": null,
+   "year": 2016,
+   "authors": "X Zhang, H Xiao, H Zhang, X He and M Xu",
+   "title": "Uncertainty estmation in form error evaluation of freeform surfaces for precision engineering",
+   "venue": "Proc. SPIE 9903:99031G (2016)",
+   "notes": []
+  },
+  {
+   "id": "C8",
+   "type": "conference",
+   "group": null,
+   "year": 2014,
+   "authors": "X He, T Chen, DN Wang, X Zhang, H Zhang, M Xu",
+   "title": "A long cavity graphene-based mode-locked fiber laser for high pulse energy output",
+   "venue": "Asia Communications and Photonics Conference, ATh3A. 77 (2014)",
+   "notes": []
+  },
+  {
+   "id": "C7",
+   "type": "conference",
+   "group": null,
+   "year": 2014,
+   "authors": "X He, D Wang, X Zhang, H Zhang, M Xu",
+   "title": "High pulse energy, Q-switched fiber laser based on graphene",
+   "venue": "Optoelectronic Devices and Integration, JF2A. 13 (2014)",
+   "notes": []
+  },
+  {
+   "id": "C6",
+   "type": "conference",
+   "group": null,
+   "year": 2013,
+   "authors": "X Zhang, H Zhang, X He and M Xu",
+   "title": "Fast filtering of surface topography of micro-optics using non-local means",
+   "venue": "Proc SPIE, 8916:891620 (2013)",
+   "notes": []
+  },
+  {
+   "id": "C5",
+   "type": "conference",
+   "group": null,
+   "year": 2013,
+   "authors": "B Chen, X Zhang, H Zhang, X He and M Xu",
+   "title": "Uncertainty evaluation for a three dimensional rotary measuring system by a Markov chain Monte Carlo method",
+   "venue": "Proc SPIE, 8916:891621 (2013)",
+   "notes": []
+  },
+  {
+   "id": "C4",
+   "type": "conference",
+   "group": null,
+   "year": 2012,
+   "authors": "JH Lu, JH Wang, M Xu, H Zhang*, et. al",
+   "title": "Influence of under-bump metallurgy and solder alloys on the crack in the wafer level chip scale packaging",
+   "venue": "ISTP (2012)",
+   "notes": []
+  },
+  {
+   "id": "C3",
+   "type": "conference",
+   "group": null,
+   "year": 2012,
+   "authors": "Jinghong Lu, Junhua Wang, Min Xu and Hao Zhang*",
+   "title": "Optimum parameters for precision compression molding of spherical glass-lens arrays",
+   "venue": "Proc. SPIE 8416:84160Q (2012)",
+   "notes": []
+  },
+  {
+   "id": "C2",
+   "type": "conference",
+   "group": null,
+   "year": 2006,
+   "authors": "Zhang, H., Zhu, H., Qian, L., Fan, D., and Fu, X",
+   "title": "Optical properties of leaky modes of photonic crystal waveguides",
+   "venue": "J. Kor. Phys. Soc. 49(5, Part 1 Sp. Iss. SI):2118–2123 (2006)",
+   "notes": []
+  },
+  {
+   "id": "C1",
+   "type": "conference",
+   "group": null,
+   "year": 2006,
+   "authors": "Tang Z, Zhang H., Ye Y., Zhao C., Wen S., and Fan D",
+   "title": "Low-pass spatial filtering using optically thinner left-handed photonic crystals",
+   "venue": "International Symposium on Biophotonics, Nanophotonics and Metamaterials. 488-491 (IEEE) (2006)",
+   "notes": []
+  },
+  {
+   "id": "O1",
+   "type": "other",
+   "group": null,
+   "year": 2011,
+   "authors": "张浩",
+   "title": "信鸽归巢之谜无终解",
+   "venue": "中国社会科学报, Vol. 251 (2011)",
+   "notes": []
+  },
+  {
+   "id": "B1",
+   "type": "book",
+   "year": 2022,
+   "authors": "Yiming Zhang, Yuanfeng Xu*, Yujie Xia, Juan Zhang, Hao Zhang* and Desheng Fu*",
+   "title": "Photo-induced displacive phase transition in two-dimensional MoTe2 from first-principle calculations",
+   "venue": "Phase Change Materials - Technology and Applications, ISBN 978-1-80356-474-6 (2022)",
+   "notes": []
+  },
+  {
+   "id": "P2",
+   "type": "patent",
+   "year": 2024,
+   "authors": "邱子杰, 金罗智杰, 张浩, 岑剡, 陈虹玉, 陈鸿江",
+   "title": "基于向量量化算法的晶体材料预测模型、方法、电子设备、存储介质及计算机程序产品",
+   "venue": "申请号 / Application No. 202411417703.4",
+   "notes": []
+  },
+  {
+   "id": "P1",
+   "type": "patent",
+   "year": null,
+   "authors": "李大海, 张浩, 徐敏",
+   "title": "一种检测UV胶水固化过程动态光学特性的方法",
+   "venue": "授权号 / Patent No. CN103969220B",
+   "notes": []
+  }
+ ]
+}
