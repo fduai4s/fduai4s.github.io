@@ -81,7 +81,8 @@
   ],
 
   "news": [
-    {"date": "2026-10", "en": "Congratulations to Hongjiang Chen and Haixuan Lin! Their <a href=\"{publications}#J146\">NanoBTE work</a> has been accepted for publication in Microstructures.", "zh": "祝贺陈鸿江和林海轩的 <a href=\"{publications}#J146\">NanoBTE 工作</a>被 Microstructures 接收发表。"}
+    {"date": "2026-10", "en": "Congratulations to Hongjiang Chen and Haixuan Lin! Their <a href=\"{publications}#J146\">NanoBTE work</a> has been accepted for publication in Microstructures.", "zh": "祝贺陈鸿江和林海轩的 <a href=\"{publications}#J146\">NanoBTE 工作</a>被 Microstructures 接收发表。"},
+    {"date": "2026-09", "en": "Congratulations to Hongyu Chen and Mengyu Dai! Their <a href=\"{publications}#J147\">PARCE work</a> has been published in Materials Genome Engineering Advances.", "zh": "祝贺陈虹玉和代梦宇的 <a href=\"{publications}#J147\">PARCE 工作</a>在 Materials Genome Engineering Advances 发表。"}
   ],
 
   "honors": [
