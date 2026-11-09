@@ -1,6 +1,7 @@
 {
   "site_url": "https://fduai4s.github.io",
   "name": {"en": "Hao Zhang", "zh": "张浩"},
+  "group_name": "AI For Science Group @ FDU",
   "site_title": {"en": "Hao Zhang · Fudan University", "zh": "张浩 · 复旦大学"},
   "description": {
     "en": "Hao Zhang's research group at Fudan University: AI for science in materials and semiconductors, quantum materials, and non-Hermitian photonics.",

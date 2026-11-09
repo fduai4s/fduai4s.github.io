@@ -204,7 +204,7 @@ def layout(lang, key, path, title, body, description=None):
   <header class="site-header">
     <div class="header-inner">
       <a class="site-identity" href="{url(lang, '/')}">
-        <span class="identity-name">{esc(PROFILE['name']['en'])}<span lang="zh-CN">{esc(PROFILE['name']['zh'])}</span></span>
+        <span class="identity-name">{esc(PROFILE['group_name'])}</span>
         <span class="identity-sub">{t('identity_sub', lang)}</span>
       </a>
       <nav class="primary-navigation" aria-label="{'Main navigation' if lang == 'en' else '主导航'}">
