@@ -22,7 +22,8 @@ root and Chinese pages to `zh/`.
 
 Notes:
 
-- New student honors go at the **top** of `honors` in `profile.json`; the home page shows the first six.
+- Group news (papers, talks, …) go in `news`, student honors in `honors` (newest first) in `profile.json`.
+  The home page merges both and shows the six most recent; the Member page timeline shows `honors` only.
 - Publication ids (`J148`, `C9`, …) are used as anchors and by the research page's
   representative-paper lists, so keep existing ids stable when adding papers.
 - Paper figures are in `images/papers/`; reference them with the `figure` field.

@@ -384,14 +384,18 @@ def news_items(entries, lang, with_year=True):
     return "\n".join(out)
 
 
+def fill_links(text, lang):
+    """Replace {research}/{publications}/{contact} placeholders with language-specific URLs."""
+    for k in ("research", "publications", "contact"):
+        text = text.replace("{" + k + "}", url(lang, f"/{k}/"))
+    return text
+
+
 def page_home(lang):
-    links = {"research": url(lang, "/research/"), "publications": url(lang, "/publications/"), "contact": url(lang, "/contact/")}
-    paras = []
-    for p in PROFILE["home_intro"][lang]:
-        for k, v in links.items():
-            p = p.replace("{" + k + "}", v)
-        paras.append(f"<p>{p}</p>")
-    intro = "\n".join(paras)
+    intro = "\n".join(f"<p>{fill_links(p, lang)}</p>" for p in PROFILE["home_intro"][lang])
+    # Group news and student honors share the home page list, newest first.
+    latest = sorted(PROFILE.get("news", []) + PROFILE["honors"], key=lambda h: h["date"], reverse=True)[:6]
+    latest = [dict(h, **{lang: fill_links(h[lang], lang)}) for h in latest]
     body = f"""  <h1 class="visually-hidden">{esc(PROFILE['site_title'][lang])}</h1>
   <figure class="home-hero">
     <img src="/images/hero.jpg" width="1800" height="1012" fetchpriority="high" alt="{t('hero_alt', lang)}">
@@ -403,7 +407,7 @@ def page_home(lang):
   <section class="home-news" aria-labelledby="news-heading">
     <h2 id="news-heading">{t('news', lang)}</h2>
     <ul class="news-list">
-{news_items(PROFILE['honors'][:6], lang)}
+{news_items(latest, lang)}
     </ul>
     <a class="more-link" href="{url(lang, '/member/')}#honors">{t('all_honors', lang)}</a>
   </section>"""

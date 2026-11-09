@@ -80,6 +80,10 @@
     {"en": "5 Fudan University Outstanding Graduates (master’s, Ph.D.)", "zh": "5 位“复旦大学优秀毕业生（硕士/博士）”"}
   ],
 
+  "news": [
+    {"date": "2026-10", "en": "Congratulations to Hongjiang Chen and Haixuan Lin! Their <a href=\"{publications}#J146\">NanoBTE work</a> has been accepted for publication in Microstructures.", "zh": "祝贺陈鸿江和林海轩的 <a href=\"{publications}#J146\">NanoBTE 工作</a>被 Microstructures 接收发表。"}
+  ],
+
   "honors": [
     {"date": "2026-06", "en": "Yuqian Zhang, Beichen Zhao and Shuangyu Lyu won First Prize in the Sunny Cup Creative Track National Final of the 14th National Undergraduate Optoelectronic Design Competition.", "zh": "张语芊、赵北辰、吕双羽获第十四届全国大学生光电设计竞赛“舜宇杯”创意赛道决赛一等奖。"},
     {"date": "2026-06", "en": "Guanyao Mao’s thesis was selected as a Fudan University Outstanding Graduation Thesis.", "zh": "毛冠尧同学获复旦大学优秀毕业论文。"},
