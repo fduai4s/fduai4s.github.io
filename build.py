@@ -180,7 +180,7 @@ def layout(lang, key, path, title, body, description=None):
     if SITE_URL:
         head_extra.append(f'  <link rel="canonical" href="{SITE_URL}{url(lang, path)}">')
         head_extra.append(f'  <meta property="og:url" content="{SITE_URL}{url(lang, path)}">')
-        head_extra.append(f'  <meta property="og:image" content="{SITE_URL}/images/hero.jpg">')
+        head_extra.append(f'  <meta property="og:image" content="{SITE_URL}/images/hero2.png">')
     head_extra = "\n".join(head_extra)
     script = '\n  <script src="/assets/js/site.js" defer></script>' if key == "publications" else ""
     year = date.today().year
@@ -398,7 +398,7 @@ def page_home(lang):
     latest = [dict(h, **{lang: fill_links(h[lang], lang)}) for h in latest]
     body = f"""  <h1 class="visually-hidden">{esc(PROFILE['site_title'][lang])}</h1>
   <figure class="home-hero">
-    <img src="/images/hero.jpg" width="1800" height="1012" fetchpriority="high" alt="{t('hero_alt', lang)}">
+    <img src="/images/hero2.png" width="1800" height="1012" fetchpriority="high" alt="{t('hero_alt', lang)}">
   </figure>
   <div class="home-introduction">
 {intro}
