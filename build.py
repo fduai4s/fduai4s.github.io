@@ -41,6 +41,9 @@ T = {
     "skip": ("Skip to content", "跳到正文"),
     "identity_sub": ("Fudan University", "复旦大学"),
     "footer": ("Hao Zhang Group · Fudan University", "张浩课题组 · 复旦大学"),
+    "site_views": ("Total views", "总访问"),
+    "page_views": ("This page", "本页访问"),
+    "visit_statistics": ("Page view statistics", "访问次数统计"),
     "faculty_page": ("Fudan faculty page ↗", "复旦教师主页 ↗"),
     "news": ("News", "动态"),
     "all_honors": ("All student honors →", "全部学生获奖 →"),
@@ -183,6 +186,15 @@ def layout(lang, key, path, title, body, description=None):
         head_extra.append(f'  <meta property="og:image" content="{SITE_URL}/images/hero2.png">')
     head_extra = "\n".join(head_extra)
     script = '\n  <script src="/assets/js/site.js" defer></script>' if key == "publications" else ""
+    counter = ""
+    counter_script = ""
+    if key != "404":
+        counter = f'''
+      <div class="visit-counter" aria-label="{t('visit_statistics', lang)}">
+        <span id="busuanzi_container_site_pv" style="display: none">{t('site_views', lang)} <span id="busuanzi_value_site_pv"></span></span>
+        <span id="busuanzi_container_page_pv" style="display: none">{t('page_views', lang)} <span id="busuanzi_value_page_pv"></span></span>
+      </div>'''
+        counter_script = '\n  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>'
     year = date.today().year
     return f"""<!doctype html>
 <html lang="{L['html']}">
@@ -219,14 +231,16 @@ def layout(lang, key, path, title, body, description=None):
 </main>
 
   <footer class="site-footer">
-    <span>© {year} {t('footer', lang)}</span>
+    <div class="footer-meta">
+      <span>© {year} {t('footer', lang)}</span>{counter}
+    </div>
     <nav aria-label="{'More information' if lang == 'en' else '更多信息'}">
       <a href="{url(lang, '/teaching/')}">{t('teaching', lang)}</a>
       <a href="{url(lang, '/member/')}#honors">{t('honors', lang)}</a>
       <a href="{esc(PROFILE['source_page'])}">{t('faculty_page', lang)}</a>
       <a href="{esc(PROFILE['github'])}">GitHub ↗</a>
     </nav>
-  </footer>
+  </footer>{counter_script}
 </body>
 </html>
 """

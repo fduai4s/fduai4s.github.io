@@ -76,6 +76,12 @@ html[lang="zh-CN"] .identity-sub { text-transform: none; letter-spacing: .08em; 
 }
 .site-footer nav { display: flex; flex-wrap: wrap; gap: 18px; }
 .site-footer a { color: var(--muted); }
+.visit-counter {
+  min-height: 1.6em; margin-top: 4px; font-size: 11px; font-weight: 400;
+  line-height: 1.6; font-variant-numeric: tabular-nums;
+}
+.visit-counter > span { white-space: nowrap; }
+.visit-counter > span + span::before { content: " · "; white-space: pre; }
 
 /* Home */
 .home-hero { margin: 0 0 38px; }
