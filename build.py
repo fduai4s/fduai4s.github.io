@@ -191,10 +191,10 @@ def layout(lang, key, path, title, body, description=None):
     if key != "404":
         counter = f'''
       <div class="visit-counter" aria-label="{t('visit_statistics', lang)}">
-        <span id="busuanzi_container_site_pv" style="display: none">{t('site_views', lang)} <span id="busuanzi_value_site_pv"></span></span>
-        <span id="busuanzi_container_page_pv" style="display: none">{t('page_views', lang)} <span id="busuanzi_value_page_pv"></span></span>
+        <span id="vercount_container_site_pv" style="display: none">{t('site_views', lang)} <span id="vercount_value_site_pv"></span></span>
+        <span id="vercount_container_page_pv" style="display: none">{t('page_views', lang)} <span id="vercount_value_page_pv"></span></span>
       </div>'''
-        counter_script = '\n  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>'
+        counter_script = '\n  <script defer src="https://events.vercount.one/js"></script>'
     year = date.today().year
     return f"""<!doctype html>
 <html lang="{L['html']}">

@@ -28,9 +28,10 @@ Notes:
   representative-paper lists, so keep existing ids stable when adding papers.
 - Paper figures are in `images/papers/`; reference them with the `figure` field.
 - Set `site_url` in `profile.json` (e.g. `https://<user>.github.io`) to emit canonical links, a sitemap and robots.txt.
-- The footer uses Busuanzi to display total site page views and views for the current page.
+- The footer uses Vercount to display total site page views and views for the current page.
   Counts are shared across visitors, with separate page counts for English and Chinese URLs.
-  The script loads asynchronously; counters stay hidden if the service cannot be reached.
+  The script loads without blocking HTML parsing. If the API is unavailable, the service
+  falls back to its last cached counts; counters stay hidden when no cached counts exist.
   The 404 page does not load the counter. This integration cannot recover visits before it was enabled.
 
 ## Preview locally
